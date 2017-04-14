@@ -1,0 +1,1060 @@
+@media (max-width: 500px) {
+    body {
+        padding:0;
+    }
+    .title {
+        width:100%;
+    }
+    .section {
+        width:100%;
+    }
+    .topbox {
+        width:100%;
+    }
+    
+    .righttop {
+        width:100%;
+    }
+    
+    .bottambox {
+        width:100%;
+    }
+    
+    .showcase {
+        width:100%;
+    }
+    
+    .footerbox {
+        width:100%;
+    }
+    
+    .header {
+        width:100%;
+    }
+    .left {
+        width:100%;
+    }
+    .right {
+        width:100%;
+    }
+    
+     .box1 {
+        width:100%;
+    }
+    
+      .box2a {
+        width:100%;
+    }
+    
+       .box3a {
+        width:100%;
+    }
+    
+       .box3a {
+        width:100%;
+    }
+    
+       .box4a {
+        width:100%;
+    }
+}
+
+
+html {
+	
+	margin: 0;
+	padding: 0;
+    display: block;
+    background-color: #777;
+    display: block;
+    height:auto;
+   
+}
+
+body {
+	width: 100%;
+    max-width: 1200px;
+    height: auto;
+    margin: 4em;
+    margin-left: 5em;
+	font: 100% Arial, Helvetica, sans-serif;
+	display: block;
+    background-color:white;
+   }
+
+section {
+	width: 100%;
+    max-width: 1200px;
+    height:auto;
+   }
+
+.topbox {
+    float: none;
+	width: 100%;
+    max-width: 1200px;
+    height:200px;
+    background-color:cornflowerblue;
+    border:2px solid black;
+    display: block;
+    margin-top:50px;
+    clear: both;
+    
+    }
+
+
+
+.left {
+	float: left;
+	width: 650px;
+    height: 2350px;
+    background-color:antiquewhite;
+    border:2px solid red;
+    display: block;
+    margin-top:50px;
+    }
+
+
+.box1{
+    float: left;
+    display: block;
+	width: 600px;
+    height: 700px;
+    background-color:azure;
+     border:2px solid black;
+     margin-top: 10px;
+    clear both;
+}
+
+.box1 {
+     background: url('http://www.images.iskaclothing.co.uk/affiliate/yumi/YM260_NAVY_F%20(2).jpg') no-repeat;
+    background-size: 590px 690px;
+}
+
+
+.box2{
+    display: block;
+	width: 600px;
+    height: 300px;
+    background-color:floralwhite;
+     border:2px solid yellow;
+    clear: both;
+   margin-top: 20px;
+    margin-bottom: 20px;
+     }
+
+.box2a {
+     background: url('../IMG/productsBG.jpg') no-repeat;
+    background-size: 300px 220px;
+}
+
+.box2a {
+    float: left;
+    display: block;
+	width: 230px;
+    height: 300px;
+    background-color:whitesmoke;
+     border:2px grey;
+}
+
+.box2b {
+    float: right;
+    display: block;
+	width: 325px;
+    height: 290px;
+    background-color:dimgray;
+     border:2px solid black;
+    margin-top: 5px;
+    }
+
+.box2b1 {
+    float: left;
+    display: block;
+	width: 314px;
+    height: 132px;
+    background-color:palegreen;
+     border:2px solid black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+   }
+.box2b2 {
+    float: none;
+    display: block;
+	width: 314px;
+    height: 140px;
+    background-color:cyan;
+     border:2px solid black;
+     clear: both;
+      margin-left: 5px;
+   }
+
+.box3{
+    display: block;
+	width: 600px;
+    height: 300px;
+    background-color:coral;
+     border:2px solid yellow;
+     margin-top: 20px;
+    margin-bottom: 20px;
+    clear: both;
+     }
+
+.box3a {
+    float: right;
+    display: block;
+	width: 230px;
+    height: 300px;
+    background-color:yellowgreen;
+     border:2px grey;
+}
+
+.box3a {
+     background: url('../IMG/productsBG%20(1).jpg') no-repeat;
+    background-size: 220px 290px;
+}
+
+.box3b {
+    float: left;
+    display: block;
+	width: 325px;
+    height: 290px;
+    background-color:dimgray;
+     border:2px solid black;
+    margin-top: 5px;
+    }
+
+.box3b1 {
+    float: left;
+    display: block;
+	width: 314px;
+    height: 132px;
+    background-color:palegreen;
+     border:2px solid black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+   }
+.box3b2 {
+    float: none;
+    display: block;
+	width: 314px;
+    height: 140px;
+    background-color:cyan;
+     border:2px solid black;
+     clear: both;
+      margin-left: 5px;
+   }
+
+.box4{
+    display: block;
+	width: 600px;
+    height: 300px;
+    background-color:coral;
+     border:2px solid yellow;
+     margin-top: 20px;
+    margin-bottom: 20px;
+    clear: both;
+     }
+
+.box4a {
+    float: left;
+    display: block;
+	width: 230px;
+    height: 300px;
+    background-color:yellowgreen;
+     border:2px grey;
+}
+
+.box4a {
+     background: url('../IMG/productsBG%20(2).jpg') no-repeat;
+    background-size: 300px 280px;
+}
+
+.box4b {
+    float: right;
+    display: block;
+	width: 325px;
+    height: 290px;
+    background-color:dimgray;
+     border:2px solid black;
+    margin-top: 5px;
+    }
+
+.box4b1 {
+    float: left;
+    display: block;
+	width: 314px;
+    height: 132px;
+    background-color:palegreen;
+     border:2px solid black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+   }
+.box4b2 {
+    float: none;
+    display: block;
+	width: 314px;
+    height: 140px;
+    background-color:cyan;
+     border:2px solid black;
+     clear: both;
+      margin-left: 5px;
+   }
+
+.box5{
+    display: block;
+	width: 600px;
+    height: 300px;
+    background-color:coral;
+     border:2px solid yellow;
+     margin-top: 20px;
+    margin-bottom: 20px;
+    clear: both;
+     }
+
+.box5a {
+    float: right;
+    display: block;
+	width: 230px;
+    height: 300px;
+    background-color:yellowgreen;
+     border:2px grey;
+}
+
+.box5b {
+    float: left;
+    display: block;
+	width: 325px;
+    height: 290px;
+    background-color:dimgray;
+     border:2px solid black;
+    margin-top: 5px;
+    }
+
+.box5b1 {
+    float: left;
+    display: block;
+	width: 314px;
+    height: 132px;
+    background-color:palegreen;
+     border:2px solid black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+   }
+.box5b2 {
+    float: none;
+    display: block;
+	width: 314px;
+    height: 140px;
+    background-color:cyan;
+     border:2px solid black;
+     clear: both;
+      margin-left: 5px;
+   }
+.box6{
+    display: block;
+	width: 600px;
+    height: 300px;
+    background-color:coral;
+     border:2px solid yellow;
+     margin-top: 20px;
+    margin-bottom: 20px;
+    clear: both;
+     }
+
+.box6a {
+    float: left;
+    display: block;
+	width: 230px;
+    height: 300px;
+    background-color:yellowgreen;
+     border:2px grey;
+}
+
+.box6b {
+    float: right;
+    display: block;
+	width: 325px;
+    height: 290px;
+    background-color:dimgray;
+     border:2px solid black;
+    margin-top: 5px;
+    }
+
+.box6b1 {
+    float: left;
+    display: block;
+	width: 314px;
+    height: 132px;
+    background-color:palegreen;
+     border:2px solid black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+   }
+.box6b2 {
+    float: none;
+    display: block;
+	width: 314px;
+    height: 140px;
+    background-color:cyan;
+     border:2px solid black;
+     clear: both;
+      margin-left: 5px;
+   }
+.right {
+	float: right;
+	width: 350px;
+    height: 2350px;
+    background-color:coral;
+    display: block;
+    border:2px solid black;
+    margin-top:50px;
+   }
+
+.righttop {
+    float:none;
+    display: block;
+	width: 325px;
+    height: 80px;
+    background-color:peru;
+     border:2px solid black;
+     margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: auto;
+    }
+
+.box8{
+    float:none;
+    display: block;
+	width: 325px;
+    height: 250px;
+    background-color:peru;
+     border:2px solid black;
+     margin-top: 20px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: auto;
+    }
+
+.box8a {
+    float: none;
+    display: block;
+	width: 295px;
+    height: 100px;
+    background-color:yellowgreen;
+     border:2px grey;
+    margin-top: 145px;
+    margin-left: 15px;
+   
+   }
+
+.box8a1 {
+    float: none;
+    display: block;
+	width: 195px;
+    height: 35px;
+    background-color:palegreen;
+    border:2px solid black;
+    margin-left: 45px;
+   }
+
+.box8a2 {
+    float: none;
+    display: block;
+	width: 260px;
+    height: 35px;
+    background-color:cyan;
+     border:2px solid black;
+    margin-top: 10px;
+     margin-left: 15px;
+    }
+
+.box9{
+    float:none;
+    display: block;
+	width: 325px;
+    height: 250px;
+    background-color:peru;
+     border:2px solid black;
+     margin-top: 20px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: auto;
+    }
+
+.box9a {
+    float: none;
+    display: block;
+	width: 295px;
+    height: 100px;
+    background-color:yellowgreen;
+     border:2px grey;
+    margin-top: 145px;
+    margin-left: 15px;
+   
+   }
+
+.box9a1 {
+    float: none;
+    display: block;
+	width: 195px;
+    height: 35px;
+    background-color:palegreen;
+    border:2px solid black;
+    margin-left: 45px;
+   }
+
+.box9a2 {
+    float: none;
+    display: block;
+	width: 260px;
+    height: 35px;
+    background-color:cyan;
+     border:2px solid black;
+    margin-top: 10px;
+     margin-left: 15px;
+    }
+.box10{
+    float:none;
+    display: block;
+	width: 325px;
+    height: 250px;
+    background-color:peru;
+     border:2px solid black;
+     margin-top: 20px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: auto;
+    }
+
+.box10a {
+    float: none;
+    display: block;
+	width: 295px;
+    height: 100px;
+    background-color:yellowgreen;
+     border:2px grey;
+    margin-top: 145px;
+    margin-left: 15px;
+   
+   }
+
+.box10a1 {
+    float: none;
+    display: block;
+	width: 195px;
+    height: 35px;
+    background-color:palegreen;
+    border:2px solid black;
+    margin-left: 45px;
+   }
+
+.box10a2 {
+    float: none;
+    display: block;
+	width: 260px;
+    height: 35px;
+    background-color:cyan;
+     border:2px solid black;
+    margin-top: 10px;
+     margin-left: 15px;
+    }
+
+.box11{
+    float:none;
+    display: block;
+	width: 325px;
+    height: 250px;
+    background-color:peru;
+     border:2px solid black;
+     margin-top: 20px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: auto;
+    }
+
+.box11a {
+    float: none;
+    display: block;
+	width: 295px;
+    height: 100px;
+    background-color:yellowgreen;
+     border:2px grey;
+    margin-top: 145px;
+    margin-left: 15px;
+   
+   }
+
+.box11a1 {
+    float: none;
+    display: block;
+	width: 195px;
+    height: 35px;
+    background-color:palegreen;
+    border:2px solid black;
+    margin-left: 45px;
+   }
+
+.box11a2 {
+    float: none;
+    display: block;
+	width: 260px;
+    height: 35px;
+    background-color:cyan;
+     border:2px solid black;
+    margin-top: 10px;
+     margin-left: 15px;
+    }
+.box12{
+    float:none;
+    display: block;
+	width: 325px;
+    height: 250px;
+    background-color:peru;
+     border:2px solid black;
+     margin-top: 20px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: auto;
+    }
+
+.box12a {
+    float: none;
+    display: block;
+	width: 295px;
+    height: 100px;
+    background-color:yellowgreen;
+     border:2px grey;
+    margin-top: 145px;
+    margin-left: 15px;
+   
+   }
+
+.box12a1 {
+    float: none;
+    display: block;
+	width: 195px;
+    height: 35px;
+    background-color:palegreen;
+    border:2px solid black;
+    margin-left: 45px;
+   }
+
+.box12a2 {
+    float: none;
+    display: block;
+	width: 260px;
+    height: 35px;
+    background-color:cyan;
+     border:2px solid black;
+    margin-top: 10px;
+     margin-left: 15px;
+    }
+.box13{
+    float:none;
+    display: block;
+	width: 325px;
+    height: 250px;
+    background-color:peru;
+     border:2px solid black;
+     margin-top: 20px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: auto;
+    }
+
+.box13a {
+    float: none;
+    display: block;
+	width: 295px;
+    height: 100px;
+    background-color:yellowgreen;
+     border:2px grey;
+    margin-top: 145px;
+    margin-left: 15px;
+   
+   }
+
+.box13a1 {
+    float: none;
+    display: block;
+	width: 195px;
+    height: 35px;
+    background-color:palegreen;
+    border:2px solid black;
+    margin-left: 45px;
+   }
+
+.box13a2 {
+    float: none;
+    display: block;
+	width: 260px;
+    height: 35px;
+    background-color:cyan;
+     border:2px solid black;
+    margin-top: 10px;
+     margin-left: 15px;
+    }
+.box14{
+    float:none;
+    display: block;
+	width: 325px;
+    height: 250px;
+    background-color:peru;
+     border:2px solid black;
+     margin-top: 20px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: auto;
+    }
+
+.box14a {
+    float: none;
+    display: block;
+	width: 295px;
+    height: 100px;
+    background-color:yellowgreen;
+     border:2px grey;
+    margin-top: 145px;
+    margin-left: 15px;
+   
+   }
+
+.box14a1 {
+    float: none;
+    display: block;
+	width: 195px;
+    height: 35px;
+    background-color:palegreen;
+    border:2px solid black;
+    margin-left: 45px;
+   }
+
+.box14a2 {
+    float: none;
+    display: block;
+	width: 260px;
+    height: 35px;
+    background-color:cyan;
+     border:2px solid black;
+    margin-top: 10px;
+     margin-left: 15px;
+    }
+.box15{
+    float:none;
+    display: block;
+	width: 325px;
+    height: 250px;
+    background-color:peru;
+     border:2px solid black;
+     margin-top: 20px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: auto;
+    }
+
+.box15a {
+    float: none;
+    display: block;
+	width: 295px;
+    height: 100px;
+    background-color:yellowgreen;
+     border:2px grey;
+    margin-top: 145px;
+    margin-left: 15px;
+   
+   }
+
+.box15a1 {
+    float: none;
+    display: block;
+	width: 195px;
+    height: 35px;
+    background-color:palegreen;
+    border:2px solid black;
+    margin-left: 45px;
+   }
+
+.box15a2 {
+    float: none;
+    display: block;
+	width: 260px;
+    height: 35px;
+    background-color:cyan;
+     border:2px solid black;
+    margin-top: 10px;
+     margin-left: 15px;
+    }
+
+.bottambox {
+    float:left;
+    display: block;
+	width: 100%;
+    max-width: 620px;
+    height:220px;
+    background-color:cornflowerblue;
+    border:2px solid black;
+    display: block;
+    margin-top: 30px;
+    clear: both;
+    }
+
+.box7{
+    float:left;
+    display: block;
+	width: 250px;
+    height: 190px;
+    background-color:coral;
+     border:2px solid yellow;
+     margin-top: 15px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+   
+    }
+
+.box7a {
+    float: right;
+    display: block;
+	width: 325px;
+    height: 190px;
+    background-color:yellowgreen;
+     border:2px grey;
+    margin-top: 15px;
+    margin-right: 15px;
+      
+   }
+
+.box7a1 {
+    float: left;
+    display: block;
+	width: 275px;
+    height: 120px;
+    background-color:palegreen;
+     border:2px solid black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+   }
+
+.box7a2 {
+    float: none;
+    display: block;
+	width: 275px;
+    height: 40px;
+    background-color:cyan;
+     border:2px solid black;
+     clear: both;
+      margin-left: 20px;
+     margin-top: 10px;
+    clear: both;
+     }
+
+.showcase{
+    
+    float: none;
+	width: 100%;
+    max-width: 1200px;
+    height:20px;
+    background-color:cornflowerblue;
+    border:2px solid black;
+    display: block;
+    margin-top:2700px;
+    }
+
+
+.lastbox {
+    float: none;
+	width: 100%;
+    max-width: 1200px;
+    height:200px;
+    background-color:cornflowerblue;
+    border:2px solid black;
+    display: block;
+    margin-top:20px;
+    clear: both;
+    }
+
+.footerbox {
+   float: none;
+	width: 100%;
+    max-width: 1200px;
+    height:200px;
+    background-color:cornflowerblue;
+    border:2px solid black;
+    display: block;
+    margin-top:20px;
+    }
+
+.navigation {
+	z-index:1;
+}
+ 
+ .navigation ul{
+	    width: 100%;
+         max-width: 1020px;
+	    margin: 0 auto;
+		padding: 0;
+		display: block;
+		z-index:999;
+     background-color:antiquewhite;
+}
+
+.navigation li {
+	display:inline-block;
+	position: relative;
+	font-size: 18px;
+	font-style: italic;
+	font-weight: bold;
+	background-color: #ccc;
+	width:24%;
+    max-width: 200px;
+	text-align: center;
+	padding: 10px 0px;
+     margin: 0 auto;
+	
+	}
+	
+	.navigation li ul {
+	display: none;
+	position: absolute;
+
+	}
+	.navigation li:hover ul {
+    display: block;
+	}
+	
+	.navigation li  li {
+    display: block;
+	font-size: .8em;
+	margin:0 auto;
+	padding: 0;
+	width:80%;
+	}
+	.navigation 	a {
+  text-decoration: none;
+ }
+ .navigation a:hover {
+  background-color: yellow;
+ }
+.logo{
+    margin-left: 500px;
+}
+
+.footer ul{
+	    width: 85%;
+	    margin: 0 auto;
+		padding: 0;
+		display: block;
+
+}
+
+.footer li {
+	display:inline-block;
+	position: relative;
+	font-size: 18px;
+	font-style: italic;
+	font-weight: bold;
+	background-color: #ccc;
+	width:18%;
+	height:80px;
+	text-align: center;
+	padding: 10px 0px;
+	vertical-align:bottom;
+	
+	}
+	
+	.footer li ul {
+	display: none;
+	position: absolute;
+	}
+	.footer li:hover ul {
+    display: block;
+	
+	}
+	
+	.footer li a:visited {
+		color: red;
+	}
+	.footer li  li {
+	display: block;
+	font-size: .8em;
+	margin:0 auto;
+	padding: 0;
+	width:80%;
+	height:auto;
+	text-align:center;
+	}
+	.footer a {
+  text-decoration: none;
+  color: black;
+ }
+
+.columen-container-1 {
+    display: none;
+    width:1020px;
+    position: absolute;
+    top:41px;
+}
+
+.navigation li:hover .columen-container-1 {
+    display: block;
+    background: white;
+}
+
+.sub-column {
+    width: 120px;
+    display: block !important;
+    float:left;
+    border-right: 1px solid black;
+}
+
+.column-4 {
+    display: inline-block;
+    width: 600px;
+    float:right;
+}
+
+.sub-column ul {
+    position: relative !important;
+    padding: 0;
+    margin-right: 10px;
+    max-width: none;
+    display: block !important;
+    background: transparent;
+}
+
+.sub-column ul li{
+    background: transparent;
+    margin: 0;
+    max-width: none;
+    width:100px;
+    line-height: 40px;
+    margin-bottom:10px;
+    padding: 10px;
+}
+
+.column-4 img {
+    width:600px;
+    height:200px;
+}
+
+.promo {
+    padding: 10px;
+    
+}
+
+.promo-title {
+    display: block;
+    margin-bottom: 5px;
+}
+.promo-copy {
+    display: block;
+}
+
+.product-image {
+ width:120px;
+}
